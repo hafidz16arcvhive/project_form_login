@@ -110,3 +110,26 @@ body{
         .register-link p a:hover{
             text-decoration: underline;
         }
+        .social-media{
+            font-size: 14.5px;
+            text-align: center;
+           margin: 20px 0 15px;
+    
+          }
+    
+          .social-media a{
+            color: #fff;
+            text-decoration: none;
+            font-weight: 400;      
+          }
+    
+            .social-media a:hover{
+                text-decoration: underline;
+        }
+        .social-media img{
+          width: 20px;
+          height: 20px;
+          margin-bottom: -5px;
+          position: relative;
+
+        }
